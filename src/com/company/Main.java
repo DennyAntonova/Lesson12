@@ -42,7 +42,7 @@ public class Main {
         Collections.sort(newBox);
         System.out.println(newBox);
         System.out.println();
-        System.out.println();
+       
 
     }
 
