@@ -34,7 +34,6 @@ public class Main {
         Box two = new Box("pink");
 
         System.out.println(one);
-        System.out.println(two);
 
         System.out.println(bulgarianFlag);
         Collections.sort(bulgarianFlag);
