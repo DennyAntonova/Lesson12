@@ -7,6 +7,7 @@ import java.util.Collections;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("Hiiiiiiiiiiiiiiiiiiiiiiii");
         Box one = new Box(Color.WHITE);
         Box three = new Box(Color.GREEN);
         Box four = new Box(Color.RED);
